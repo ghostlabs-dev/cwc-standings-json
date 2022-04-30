@@ -550,5 +550,28 @@
     "Starts": 1,
     "DNF": 1,
     "DNS": 0
+  },
+  {
+    "Position": "7=",
+    "Driver": "Van_Aascheeks",
+    "TEam": "Williams",
+    "TotalPoints": 0,
+    "AUS": 0,
+    "GBR": "",
+    "HUN": "",
+    "JAP": "",
+    "ABU": "",
+    "POR": "",
+    "MON": "",
+    "SNG": "",
+    "BRA": "",
+    "IMO": "",
+    "AZJ": "",
+    "BAH": "",
+    "Wins": 0,
+    "Podiums": 0,
+    "Starts": 0,
+    "DNF": 0,
+    "DNS": 1
   }
 ]
